@@ -9,5 +9,5 @@ DetectColor is a people-oriented color blindness application that detects or rec
 In this application, the user can also make a quick test to know if he has any deficiency in perceiving colors (Color Blindness).
 
 <p align="center">
-<img src="https://github.com/BogdanKocsis/DetectColor/blob/main/images/My%20Post.png" width="300" height="500" />
+<img src="https://github.com/BogdanKocsis/DetectColor/blob/main/images/My%20Post.png" width="700" height="500" />
 </p>
