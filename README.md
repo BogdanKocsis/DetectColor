@@ -2,4 +2,4 @@
 
 DetectColor is a people-oriented color blindness application that detects or recognizes the color of the selected object using the camera of the mobile phone. This mobile app can help the user find colors and shows the color name of the object.
 
-![](images/Screenshot_20210120-100833_DetecCor.jpg)
+<img src="https://github.com/BogdanKocsis/DetectColor/blob/main/images/Screenshot_20210120-100833_DetecCor.jpg" width="200" height="400" />
